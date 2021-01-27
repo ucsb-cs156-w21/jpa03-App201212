@@ -6,7 +6,7 @@ On Heroku: https://dashboard.heroku.com/apps/jpa03-zechenma
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-App201212
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-App201212/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-App201212)
+[![codecov](https://codecov.io/gh/ucsb-cs156-w21/jpa03-App201212/branch/main/graph/badge.svg?token=DXLN86EPLY)](https://codecov.io/gh/ucsb-cs156-w21/jpa03-App201212)
 
 
 ## Integrations
