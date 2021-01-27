@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w21/jpa03-App201212/
 
-On Heroku: https://dashboard.heroku.com/apps/jpa03-zechenma
+On Heroku: https://jpa03-zechenma.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-w21/jpa03-App201212
 
